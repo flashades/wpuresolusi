@@ -6,7 +6,7 @@ Rencana Konten WPU
    ^ React
 - Struktur Data Dasar
 - PHP Framework
- & Laravel
+ ^ Laravel
 - Interview
 - Vlog
 - Phyton
